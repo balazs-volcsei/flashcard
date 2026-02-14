@@ -38,12 +38,13 @@ The core architecture follows the MVI pattern, providing a predictable state man
 
 ### Screenshots
 
+<p align="center"
 <img width="140.8" height="297.4" alt="Screenshot_20260207_213429" src="https://github.com/user-attachments/assets/ad13df3d-9740-4c4e-8c5d-cca96d36dc72" />
 <img width="140.8" height="297.4" alt="Screenshot_20260207_213329" src="https://github.com/user-attachments/assets/7c10758e-7a28-4317-9dc9-2adc3c74760e" />
 <img width="140.8" height="297.4" alt="Screenshot_20260207_213336" src="https://github.com/user-attachments/assets/070dced8-afe0-4cfc-8aee-784d45959c16" />
 <img width="140.8" height="297.4" alt="Screenshot_20260207_213445" src="https://github.com/user-attachments/assets/b33fe612-54c4-47a9-ba11-251548f9ff0d" />
 <img width="140.8" height="297.4" alt="Screenshot_20260207_213312" src="https://github.com/user-attachments/assets/b10e637f-e87d-4a78-be21-475408df0d82" />
-
+>
 
 ## Contact
 
