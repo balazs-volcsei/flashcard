@@ -1,4 +1,4 @@
-# Flashcard App - Android Portfolio Project
+# Flashcard App - Android Project
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.17.0-7F52FF?logo=kotlin) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-2024.10.00-4285F4?logo=jetpackcompose) ![MVI Architecture](https://img.shields.io/badge/Architecture-MVI-FF6F61) ![Room DB](https://img.shields.io/badge/Room-2.8.4-3DDC84?logo=android) ![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-2.51.1-007396?logo=dagger) ![Coroutines & Flow](https://img.shields.io/badge/Coroutines_&_Flow-blue?logo=kotlin)
 
