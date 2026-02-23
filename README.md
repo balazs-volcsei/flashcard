@@ -49,3 +49,24 @@ The core architecture follows the MVI pattern, providing a predictable state man
 ## Contact
 
 Balázs Völcsei – [LinkedIn](https://www.linkedin.com/in/balazs-volcsei/) – balazs.volcsei@gmail.com
+
+## Roadmap
+- [x] Core MVI Architecture and Room Setup
+- [x] Implementing Search and Sort Functions
+- [x] Multi-select and Batch Editing
+- [x] Image Attachment Support
+- [x] Extending Functionality with Tags
+- [ ] Implementing Learning Business Logic (In Progress)
+- [ ] AdMob Integration
+- [ ] Play Store Beta Release
+
+## Recent Updates
+
+### 23 February 2026
+- Added tags for flashcards to improve organization.
+- Enhanced UX/UI experience across the creation flow.
+
+### 7 February 2026
+- Implemented core MVI architecture and Room database persistence.
+- Added reactive search and sort functionality.
+- Added batch-edit mode for deck and card management.
