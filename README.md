@@ -39,12 +39,22 @@ The core architecture follows the MVI pattern, providing a predictable state man
 ### Screenshots
 
 <p align="center">
-<img width="281.6" height="594.8" alt="Screenshot_20260217_010946" src="https://github.com/user-attachments/assets/4c23796a-e438-4920-b445-e0b047c84458" />
-<img width="281.6" height="594.8" alt="Screenshot_20260217_010729" src="https://github.com/user-attachments/assets/7d734ac4-70c8-41fe-8fc7-80891bb84ca5" />
+  <img width="281.6" height="594.8" alt="Screenshot_20260303_211110" src="https://github.com/user-attachments/assets/ac0e54be-3826-4357-8b77-9a3462a04ca9" />
+  <img width="281.6" height="594.8" alt="Screenshot_20260303_210751" src="https://github.com/user-attachments/assets/3e321bdf-2df2-4f1e-8d25-4553621607f1" />
+  <img width="281.6" height="594.8" alt="Screenshot_20260303_210804" src="https://github.com/user-attachments/assets/d51b6c99-8385-4adf-8068-456eed69ad15" />
+  
   <br/>
   <br/>
-<img width="281.6" height="594.8" alt="Screenshot_20260215_020521" src="https://github.com/user-attachments/assets/916fb038-ec3e-45fc-9f67-6ea34d5e2761" />
-<img width="281.6" height="594.8" alt="Screenshot_20260217_010339" src="https://github.com/user-attachments/assets/bee9cc02-f283-4cc5-a5a6-e105730fad6e" />
+  
+  <img width="281.6" height="594.8" alt="Screenshot_20260303_211343" src="https://github.com/user-attachments/assets/633056d3-2208-44ba-8cf1-a1b30d8bc336" />
+  <img width="281.6" height="594.8" alt="Screenshot_20260303_211325" src="https://github.com/user-attachments/assets/70956639-3f32-4149-a985-d076c671798c" />
+
+  <br/>
+  <br/>
+  
+  <img width="281.6" height="594.8" alt="Screenshot_20260217_010729" src="https://github.com/user-attachments/assets/7d734ac4-70c8-41fe-8fc7-80891bb84ca5" />
+  <img width="281.6" height="594.8" alt="Screenshot_20260215_020521" src="https://github.com/user-attachments/assets/916fb038-ec3e-45fc-9f67-6ea34d5e2761" />
+  <img width="281.6" height="594.8" alt="Screenshot_20260217_010339" src="https://github.com/user-attachments/assets/bee9cc02-f283-4cc5-a5a6-e105730fad6e" />
 
 ## Contact
 
@@ -61,6 +71,13 @@ Balázs Völcsei – [LinkedIn](https://www.linkedin.com/in/balazs-volcsei/) –
 - [ ] Play Store Beta Release
 
 ## Recent Updates
+
+### 3 March 2026
+- Implemented basic learning logics with statistics. 
+- Improved UX/UI experience.
+- Added swipe actions to deck and flashcard list items.
+- Enhanced animations accross the application.
+- Bug fixes and performance improvements.
 
 ### 23 February 2026
 - Added tags for flashcards to improve organization.
