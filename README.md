@@ -17,6 +17,8 @@ This application provides a seamless and intuitive experience for creating, orga
 *   **Context-Aware UI:** The user interface dynamically adapts to user actions, presenting relevant options for searching, sorting, and bulk-editing content.
 *   **Advanced Interactions:** Includes an intuitive multi-select mode for batch operations and the ability to attach images to flashcards.
 *   **Consistent UX:** Creation and editing tasks are handled through a consistent and user-friendly bottom sheet interface.
+*   **Progress Tracking:** At-a-glance statistics showing completion percentages and remaining cards per deck.
+*   **Modern Gestures:** Intuitive swipe-to-action support for rapid deck and card management.
 
 ## Architecture & Technology
 
