@@ -68,7 +68,7 @@ Balázs Völcsei – [LinkedIn](https://www.linkedin.com/in/balazs-volcsei/) –
 - [x] Multi-select and Batch Editing
 - [x] Image Attachment Support
 - [x] Extending Functionality with Tags
-- [ ] Implementing Learning Business Logic (In Progress)
+- [x] Implementing Learning Business Logic (In Progress)
 - [ ] AdMob Integration
 - [ ] Play Store Beta Release
 
