@@ -58,9 +58,16 @@ The core architecture follows the MVI pattern, providing a predictable state man
   <img width="281.6" height="594.8" alt="Screenshot_20260215_020521" src="https://github.com/user-attachments/assets/916fb038-ec3e-45fc-9f67-6ea34d5e2761" />
   <img width="281.6" height="594.8" alt="Screenshot_20260217_010339" src="https://github.com/user-attachments/assets/bee9cc02-f283-4cc5-a5a6-e105730fad6e" />
 
-## Contact
+## Developer
 
-Balázs Völcsei – [LinkedIn](https://www.linkedin.com/in/balazs-volcsei/) – balazs.volcsei@gmail.com
+**Balázs Völcsei**  
+*Android Developer*
+
+- **LinkedIn:** [balazs-volcsei](https://www.linkedin.com/in/balazs-volcsei/)
+- **Website:** [balazs-volcsei](https://sites.google.com/view/balazs-volcsei/home)
+- **Email:** balazs.volcsei@gmail.com
+
+---
 
 ## Roadmap
 - [x] Core MVI Architecture and Room Setup
